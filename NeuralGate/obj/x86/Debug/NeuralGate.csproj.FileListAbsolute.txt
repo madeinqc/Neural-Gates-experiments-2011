@@ -1,0 +1,10 @@
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\bin\Debug\NeuralGate.exe
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\bin\Debug\NeuralGate.pdb
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\NeuralGate.Form1.resources
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\NeuralGate.Properties.Resources.resources
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\NeuralGate.exe
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\obj\x86\Debug\NeuralGate.pdb
+C:\clients\Artificial Neuronal Network\NeuralGate\NeuralGate\bin\Debug\BrainNet.NeuralFramework.dll

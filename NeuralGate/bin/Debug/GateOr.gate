@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Network xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/Network.xsd">
+  <Layer Name="Layer0">
+    <Neuron Name="L0N0">
+      <Bias>0.63369894027709961</Bias>
+      <Output>1</Output>
+      <Delta>0</Delta>
+    </Neuron>
+    <Neuron Name="L0N1">
+      <Bias>-0.31953060626983643</Bias>
+      <Output>1</Output>
+      <Delta>0</Delta>
+    </Neuron>
+  </Layer>
+  <Layer Name="Layer1">
+    <Neuron Name="L1N0">
+      <Bias>-1.6741684450739616</Bias>
+      <Output>0.99559100787787624</Output>
+      <Delta>1.6008002747888277E-06</Delta>
+      <Connections>
+        <Input Layer="0" Neuron="0" Weight="3.5735569754983483" />
+        <Input Layer="0" Neuron="1" Weight="3.5203018885634125" />
+      </Connections>
+    </Neuron>
+    <Neuron Name="L1N1">
+      <Bias>1.0035251839377875</Bias>
+      <Output>0.022397249568412762</Output>
+      <Delta>-5.53725379149058E-06</Delta>
+      <Connections>
+        <Input Layer="0" Neuron="0" Weight="-2.3471112307270658" />
+        <Input Layer="0" Neuron="1" Weight="-2.43257919087942" />
+      </Connections>
+    </Neuron>
+  </Layer>
+  <Layer Name="Layer2">
+    <Neuron Name="L2N0">
+      <Bias>-0.89856607145612055</Bias>
+      <Output>0.992069525919951</Output>
+      <Delta>6.2401413741377165E-05</Delta>
+      <Connections>
+        <Input Layer="1" Neuron="0" Weight="5.8441816682965033" />
+        <Input Layer="1" Neuron="1" Weight="-4.0526525881539905" />
+      </Connections>
+    </Neuron>
+  </Layer>
+</Network>
